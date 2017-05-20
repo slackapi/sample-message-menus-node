@@ -42,13 +42,10 @@ webhook on your team.
 
 ### Environment variables
 
-You should now have a Slack verification token (basic information), access token, and webhook URL
-(install app). Clone this application locally. Create a new file named `.env` within the directory
-and place these values as shown:
-
+You should now have a Slack verification token (on the Basic Information page), bot user token (on the Install Page app), and Webhook URL (also on the Install App page). Clone this application locally, create a new file named .env within the directory and place these values as shown:
 ```
 SLACK_VERIFICATION_TOKEN=xxxxxxxxxxxxxxxxxxx
-SLACK_CLIENT_TOKEN=xoxp-0000000000-0000000000-0000000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SLACK_BOT_TOKEN=xoxb-0000000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 SLACK_WEBHOOK_URL=https://hooks.slack.com/services/xxxxxxxxx/yyyyyyyyy/zzzzzzzzzzzzzzzzzzzzzzzz
 ```
 
