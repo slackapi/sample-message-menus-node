@@ -17,7 +17,7 @@
   "dependencies": {
     "@slack/client": "^3.9.0",
     "@slack/events-api": "^1.0.1",
-    "@slack/interactive-messages": "^1.0.0",
+    "@slack/interactive-messages": "^^0.1.1",
     "axios": "^0.16.1",
     "body-parser": "^1.17.1",
     "dotenv": "^4.0.0",
