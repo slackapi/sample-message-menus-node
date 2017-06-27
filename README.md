@@ -47,13 +47,13 @@ You should now have a Slack verification token (basic information), access token
 
 You can develop the app locally by cloning this repository. Or you can [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/slack-message-menus-node)
 
-If you're developing locally:
+*If you're developing locally:*
 
 1. Create a new file named `.env` (see `.env.sample`) within the directory and place the values as shown below
 2. Download the dependencies for the application by running `npm install`. Note that this example assumes you are using a currently supported LTS version of Node (at this time, v6 or above).
 3. Start the app (`npm start`)
 
-If you're using Glitch:
+*If you're using Glitch:*
 1. Enter the enviornmental variables in `.env` as shown below
 
 
