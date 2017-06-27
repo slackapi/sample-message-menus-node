@@ -8,9 +8,7 @@ This sample demonstrates building a coffeebot, which helps you customize a drink
 
 Start by DMing the bot (or it will DM you when you join the team). Coffeebot introduces itself and gives you a message button to start a drink order. Coffees can be complicated so the bot gives you menus to make your drink just right (e.g. mocha, non fat milk, with a triple shot). It sends your completed order off to a channel where your baristas are standing by.
 
-You can either develop this app locally or you can
-
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/slack-message-menus-node)
+You can either develop this app locally or you can [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/slack-message-menus-node)
 
 ## Setup
 
@@ -47,9 +45,7 @@ Create a channel in your development team for finished coffee orders (such as `#
 
 You should now have a Slack verification token (basic information), access token, and webhook URL (install app). 
 
-You can develop the app locally by cloning this repository. Or you can 
-
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/slack-message-menus-node)
+You can develop the app locally by cloning this repository. Or you can [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/slack-message-menus-node)
 
 If you're developing locally:
 
