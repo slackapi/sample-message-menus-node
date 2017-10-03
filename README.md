@@ -59,7 +59,7 @@ You can develop the app locally by cloning this repository. Or you can [![Remix 
 
 ```
 SLACK_VERIFICATION_TOKEN=xxxxxxxxxxxxxxxxxxx
-SLACK_CLIENT_TOKEN=xoxp-0000000000-0000000000-0000000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SLACK_BOT_TOKEN=xoxb-0000000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 SLACK_WEBHOOK_URL=https://hooks.slack.com/services/xxxxxxxxx/yyyyyyyyy/zzzzzzzzzzzzzzzzzzzzzzzz
 ```
 
